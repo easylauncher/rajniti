@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Corona curfue Archives - Rajniti.Online</title>
+	<atom:link href="/tag/corona-curfue/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/corona-curfue/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Sun, 23 May 2021 03:43:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>Corona curfue Archives - Rajniti.Online</title>
+	<link>/tag/corona-curfue/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>लॉकडाउन बढ़ा कोरोना की पाबंदियों से जुड़ी ज़रूरी जानकारी</title>
+		<link>/2021/05/23/lockdown-has-increased-important-information-related-to-restrictions-from-corona/</link>
+					<comments>/2021/05/23/lockdown-has-increased-important-information-related-to-restrictions-from-corona/#respond</comments>
+		
+		<dc:creator><![CDATA[राजनीति ब्यूरो]]></dc:creator>
+		<pubDate>Sun, 23 May 2021 03:43:38 +0000</pubDate>
+				<category><![CDATA[Flash]]></category>
+		<category><![CDATA[कोरोनावायरस]]></category>
+		<category><![CDATA[मेरा भारत]]></category>
+		<category><![CDATA[Corona case update]]></category>
+		<category><![CDATA[Corona curfue]]></category>
+		<category><![CDATA[Coronavirus live update]]></category>
+		<category><![CDATA[Lockdown]]></category>
+		<category><![CDATA[Tamil nadu lockdown]]></category>
+		<category><![CDATA[Uttar Pradesh lockdown]]></category>
+		<guid isPermaLink="false">/?p=12097</guid>
+
+					<description><![CDATA[<p>लॉकडाउन बढ़ा दिया गया है. सिर्फ यूपी में ही नहीं बल्कि देश के अधिकतर हिस्सों...</p>
+<p>The post <a href="/2021/05/23/lockdown-has-increased-important-information-related-to-restrictions-from-corona/">लॉकडाउन बढ़ा कोरोना की पाबंदियों से जुड़ी ज़रूरी जानकारी</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2021/05/23/lockdown-has-increased-important-information-related-to-restrictions-from-corona/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

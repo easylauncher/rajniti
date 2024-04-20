@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>हैंकिग Archives - Rajniti.Online</title>
+	<atom:link href="/tag/%E0%A4%B9%E0%A5%88%E0%A4%82%E0%A4%95%E0%A4%BF%E0%A4%97/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/हैंकिग/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Thu, 07 Feb 2019 05:29:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>हैंकिग Archives - Rajniti.Online</title>
+	<link>/tag/हैंकिग/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>ईवीएम हैकिंग: वो 5 देश जहां ईवीएम पर सवाल उठे﻿</title>
+		<link>/2019/01/28/evm-hacking-those-5-countries-where-evms-are-questioned/</link>
+					<comments>/2019/01/28/evm-hacking-those-5-countries-where-evms-are-questioned/#respond</comments>
+		
+		<dc:creator><![CDATA[राजनीति ब्यूरो]]></dc:creator>
+		<pubDate>Mon, 28 Jan 2019 06:33:11 +0000</pubDate>
+				<category><![CDATA[लोकसभा चुनाव]]></category>
+		<category><![CDATA[ईवीएम]]></category>
+		<category><![CDATA[ईवीएम हैकिंग]]></category>
+		<category><![CDATA[भारत]]></category>
+		<category><![CDATA[लोकतंत्र]]></category>
+		<category><![CDATA[हैंकिग]]></category>
+		<guid isPermaLink="false">/?p=2016</guid>
+
+					<description><![CDATA[<p>दुनिया के सबसे बड़े लोकतंत्र के लोकसभा चुनाव होने वाले हैं. चुनाव में करीब 80...</p>
+<p>The post <a href="/2019/01/28/evm-hacking-those-5-countries-where-evms-are-questioned/">ईवीएम हैकिंग: वो 5 देश जहां ईवीएम पर सवाल उठे﻿</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2019/01/28/evm-hacking-those-5-countries-where-evms-are-questioned/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

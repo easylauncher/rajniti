@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>2019 Archives - Rajniti.Online</title>
+	<atom:link href="/tag/2019/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/2019/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Thu, 20 Dec 2018 06:07:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>2019 Archives - Rajniti.Online</title>
+	<link>/tag/2019/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>योगी जी 2019 में ये शैली तो नहीं चलेगी !</title>
+		<link>/2018/12/16/yogi-ji-will-not-run-this-style-in-2019/</link>
+					<comments>/2018/12/16/yogi-ji-will-not-run-this-style-in-2019/#respond</comments>
+		
+		<dc:creator><![CDATA[टीम राजनीति]]></dc:creator>
+		<pubDate>Sun, 16 Dec 2018 07:26:03 +0000</pubDate>
+				<category><![CDATA[उत्तर प्रदेश]]></category>
+		<category><![CDATA[ताज़ातरीन]]></category>
+		<category><![CDATA[2019]]></category>
+		<category><![CDATA[योगी आदित्यनाथ]]></category>
+		<category><![CDATA[लोकसभा चुनाव]]></category>
+		<guid isPermaLink="false">/?p=823</guid>
+
+					<description><![CDATA[<p>योगी की शैली को पिछले कुछ चुनावों में बीजेपी ने खूब भुनाया है. लेकिन बीते...</p>
+<p>The post <a href="/2018/12/16/yogi-ji-will-not-run-this-style-in-2019/">योगी जी 2019 में ये शैली तो नहीं चलेगी !</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2018/12/16/yogi-ji-will-not-run-this-style-in-2019/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

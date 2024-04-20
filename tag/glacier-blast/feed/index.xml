@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Glacier blast Archives - Rajniti.Online</title>
+	<atom:link href="/tag/glacier-blast/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/glacier-blast/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Thu, 11 Feb 2021 07:11:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>Glacier blast Archives - Rajniti.Online</title>
+	<link>/tag/glacier-blast/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>उत्तराखंड में आपदा क्यों आई, किसने बरती लापरवाही?</title>
+		<link>/2021/02/11/uttarakhand-disaster-glacier-blast-at-chamoli/</link>
+					<comments>/2021/02/11/uttarakhand-disaster-glacier-blast-at-chamoli/#respond</comments>
+		
+		<dc:creator><![CDATA[Syed Rehan Kadri]]></dc:creator>
+		<pubDate>Thu, 11 Feb 2021 07:11:20 +0000</pubDate>
+				<category><![CDATA[Flash]]></category>
+		<category><![CDATA[उत्तराखंड]]></category>
+		<category><![CDATA[Glacier blast]]></category>
+		<category><![CDATA[Tapovan jal Vidyut pariyojna]]></category>
+		<category><![CDATA[Uttarakhand disaster]]></category>
+		<guid isPermaLink="false">/?p=10965</guid>
+
+					<description><![CDATA[<p>उत्तराखंड की सुरंग में फंसे 34 लोगों को निकालने के लिए सेना और अर्धसैनिक बल...</p>
+<p>The post <a href="/2021/02/11/uttarakhand-disaster-glacier-blast-at-chamoli/">उत्तराखंड में आपदा क्यों आई, किसने बरती लापरवाही?</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2021/02/11/uttarakhand-disaster-glacier-blast-at-chamoli/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

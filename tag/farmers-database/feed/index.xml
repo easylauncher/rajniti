@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Farmers database Archives - Rajniti.Online</title>
+	<atom:link href="/tag/farmers-database/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/farmers-database/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Mon, 20 Sep 2021 05:12:09 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>Farmers database Archives - Rajniti.Online</title>
+	<link>/tag/farmers-database/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Kisan News: अब एक-एक किसान का रिकॉर्ड रखेगी मोदी सरकार लेकिन क्यों?</title>
+		<link>/2021/09/20/kisan-news-now-the-modi-government-will-keep-the-record-of-every-farmer-but-why/</link>
+					<comments>/2021/09/20/kisan-news-now-the-modi-government-will-keep-the-record-of-every-farmer-but-why/#respond</comments>
+		
+		<dc:creator><![CDATA[टीम राजनीति]]></dc:creator>
+		<pubDate>Mon, 20 Sep 2021 05:12:07 +0000</pubDate>
+				<category><![CDATA[Newsbeat]]></category>
+		<category><![CDATA[मेरा भारत]]></category>
+		<category><![CDATA[Agriculture minister]]></category>
+		<category><![CDATA[Farmers database]]></category>
+		<category><![CDATA[Narendra Modi]]></category>
+		<category><![CDATA[Narendra Singh Tomar]]></category>
+		<category><![CDATA[PM-kisan]]></category>
+		<guid isPermaLink="false">/?p=14021</guid>
+
+					<description><![CDATA[<p>kisan news: कृषि और किसान कल्याण विभाग के अतिरिक्त सचिव विवेक अग्रवाल ने बताया कि...</p>
+<p>The post <a href="/2021/09/20/kisan-news-now-the-modi-government-will-keep-the-record-of-every-farmer-but-why/">Kisan News: अब एक-एक किसान का रिकॉर्ड रखेगी मोदी सरकार लेकिन क्यों?</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2021/09/20/kisan-news-now-the-modi-government-will-keep-the-record-of-every-farmer-but-why/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

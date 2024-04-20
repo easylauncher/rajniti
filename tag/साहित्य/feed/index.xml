@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>साहित्य Archives - Rajniti.Online</title>
+	<atom:link href="/tag/%E0%A4%B8%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%AF/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/साहित्य/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Fri, 08 May 2020 11:00:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>साहित्य Archives - Rajniti.Online</title>
+	<link>/tag/साहित्य/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>हमारे अंदर का आदमी, मर तो नहीं गया</title>
+		<link>/2020/05/08/the-man-inside-us-is-dead/</link>
+					<comments>/2020/05/08/the-man-inside-us-is-dead/#respond</comments>
+		
+		<dc:creator><![CDATA[टीम राजनीति]]></dc:creator>
+		<pubDate>Fri, 08 May 2020 10:57:57 +0000</pubDate>
+				<category><![CDATA[Stories]]></category>
+		<category><![CDATA[कोरोना वायरस]]></category>
+		<category><![CDATA[पत्रकार]]></category>
+		<category><![CDATA[समाज]]></category>
+		<category><![CDATA[साहित्य]]></category>
+		<guid isPermaLink="false">/?p=7794</guid>
+
+					<description><![CDATA[<p>आसमान से कोई नहीं टपकता&#8230; इसी समाज का हिस्सा होता है&#8230; इवेंट मैनेजर&#8230; हिप्पोक्रेट.. वगैरह...</p>
+<p>The post <a href="/2020/05/08/the-man-inside-us-is-dead/">हमारे अंदर का आदमी, मर तो नहीं गया</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2020/05/08/the-man-inside-us-is-dead/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>बोलती रोशनाई : एक शायरा के संघर्ष का सफरनामा</title>
+		<link>/2020/01/20/bolti-roshanai-journey-to-the-struggle-of-a-poet/</link>
+					<comments>/2020/01/20/bolti-roshanai-journey-to-the-struggle-of-a-poet/#respond</comments>
+		
+		<dc:creator><![CDATA[टीम राजनीति]]></dc:creator>
+		<pubDate>Mon, 20 Jan 2020 14:55:51 +0000</pubDate>
+				<category><![CDATA[कोरोनावायरस]]></category>
+		<category><![CDATA[गज़ल संग्रह]]></category>
+		<category><![CDATA[बोलती रोशनाई]]></category>
+		<category><![CDATA[साहित्य]]></category>
+		<guid isPermaLink="false">/?p=7150</guid>
+
+					<description><![CDATA[<p>मुद्रक प्रिंटर्स द्वारा प्रकाशित, डॉक्टर फूलकली ‘पूनम’  की किताब ‘बोलती रोशनाई’ का विमोचन डॉक्टर फूलकली...</p>
+<p>The post <a href="/2020/01/20/bolti-roshanai-journey-to-the-struggle-of-a-poet/">बोलती रोशनाई : एक शायरा के संघर्ष का सफरनामा</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2020/01/20/bolti-roshanai-journey-to-the-struggle-of-a-poet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="/wp-content/uploads/2020/01/WhatsApp-Video-2020-01-19-at-1.09.21-PM.mp4" length="12213008" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>

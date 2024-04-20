@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>IPL 2019 Archives - Rajniti.Online</title>
+	<atom:link href="/tag/ipl-2019/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/ipl-2019/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Wed, 20 Mar 2019 04:46:19 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>IPL 2019 Archives - Rajniti.Online</title>
+	<link>/tag/ipl-2019/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>IPL 2019: यहां पढ़िए मैचों का पूरा शेड्यूल</title>
+		<link>/2019/03/19/ipl-2019-read-full-match-schedule/</link>
+					<comments>/2019/03/19/ipl-2019-read-full-match-schedule/#respond</comments>
+		
+		<dc:creator><![CDATA[राजनीति ब्यूरो]]></dc:creator>
+		<pubDate>Tue, 19 Mar 2019 17:25:00 +0000</pubDate>
+				<category><![CDATA[Trending]]></category>
+		<category><![CDATA[IPL 2019]]></category>
+		<category><![CDATA[आईपीएल 2019]]></category>
+		<category><![CDATA[आईपीएल मैच शेड्यूल]]></category>
+		<guid isPermaLink="false">/?p=3372</guid>
+
+					<description><![CDATA[<p>छक्केमार क्रिकेट का आगाज हो रहा है. जीहां भारतीय क्रिकेट कंट्रोल बोर्ड ने मंगलवार को...</p>
+<p>The post <a href="/2019/03/19/ipl-2019-read-full-match-schedule/">IPL 2019: यहां पढ़िए मैचों का पूरा शेड्यूल</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2019/03/19/ipl-2019-read-full-match-schedule/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

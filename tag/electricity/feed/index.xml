@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Electricity Archives - Rajniti.Online</title>
+	<atom:link href="/tag/electricity/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/electricity/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Thu, 23 Jul 2020 03:33:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>Electricity Archives - Rajniti.Online</title>
+	<link>/tag/electricity/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>स्पेशल रिपोर्ट: &#8216;साहब हम दलित हैं अंधेरा ही हमारा मुकद्दर है&#8217;</title>
+		<link>/2020/07/23/special-report/</link>
+					<comments>/2020/07/23/special-report/#respond</comments>
+		
+		<dc:creator><![CDATA[टीम राजनीति]]></dc:creator>
+		<pubDate>Thu, 23 Jul 2020 03:32:37 +0000</pubDate>
+				<category><![CDATA[Newsbeat]]></category>
+		<category><![CDATA[उत्तर प्रदेश]]></category>
+		<category><![CDATA[Bahraich news]]></category>
+		<category><![CDATA[Electricity]]></category>
+		<category><![CDATA[Special report]]></category>
+		<guid isPermaLink="false">/?p=9420</guid>
+
+					<description><![CDATA[<p>&#8220;हम दलित हैं पिछड़े हुए हैं इसलिए हमारी कोई नहीं सुनता, जब से जन्म लिया...</p>
+<p>The post <a href="/2020/07/23/special-report/">स्पेशल रिपोर्ट: &#8216;साहब हम दलित हैं अंधेरा ही हमारा मुकद्दर है&#8217;</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2020/07/23/special-report/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="/wp-content/uploads/2020/07/20200723_0850541.mp4" length="6580852" type="video/mp4" />
+<enclosure url="/wp-content/uploads/2020/07/20200723_0851242.mp4" length="6089744" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>

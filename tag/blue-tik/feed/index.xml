@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Blue tik Archives - Rajniti.Online</title>
+	<atom:link href="/tag/blue-tik/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/blue-tik/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Sat, 05 Jun 2021 08:20:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>Blue tik Archives - Rajniti.Online</title>
+	<link>/tag/blue-tik/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Twitter ने मोहन भागवत समेत कई RSS नेताओं की शान में की गुस्ताखी, मोदी सरकार ने उठाया यह बड़ा कदम</title>
+		<link>/2021/06/05/twitter-boasts-of-many-rss-leaders-including-mohan-bhagwat/</link>
+					<comments>/2021/06/05/twitter-boasts-of-many-rss-leaders-including-mohan-bhagwat/#respond</comments>
+		
+		<dc:creator><![CDATA[@shiv gupta]]></dc:creator>
+		<pubDate>Sat, 05 Jun 2021 08:20:03 +0000</pubDate>
+				<category><![CDATA[Flash]]></category>
+		<category><![CDATA[Blue tik]]></category>
+		<category><![CDATA[Mohan Bhagwat]]></category>
+		<category><![CDATA[RSS]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<guid isPermaLink="false">/?p=12225</guid>
+
+					<description><![CDATA[<p>Twitter ने मोहन भागवत के अकाउंट से ब्लू टिक हटा दिया है. इससे पहले, कंपनी...</p>
+<p>The post <a href="/2021/06/05/twitter-boasts-of-many-rss-leaders-including-mohan-bhagwat/">Twitter ने मोहन भागवत समेत कई RSS नेताओं की शान में की गुस्ताखी, मोदी सरकार ने उठाया यह बड़ा कदम</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2021/06/05/twitter-boasts-of-many-rss-leaders-including-mohan-bhagwat/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

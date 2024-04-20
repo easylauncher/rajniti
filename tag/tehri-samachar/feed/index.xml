@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tehri samachar Archives - Rajniti.Online</title>
+	<atom:link href="/tag/tehri-samachar/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/tehri-samachar/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Wed, 24 Aug 2022 04:29:33 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>Tehri samachar Archives - Rajniti.Online</title>
+	<link>/tag/tehri-samachar/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>टिहरी समाचार : घनसाली के चिरबाटिया क्षेत्र फटा बादल देखिए LIVE video</title>
+		<link>/2022/08/24/watch-live-video-of-the-devastation-caused-by-cloudburst-in-tehri-uttrakhand/</link>
+					<comments>/2022/08/24/watch-live-video-of-the-devastation-caused-by-cloudburst-in-tehri-uttrakhand/#respond</comments>
+		
+		<dc:creator><![CDATA[टीम राजनीति]]></dc:creator>
+		<pubDate>Wed, 24 Aug 2022 04:29:32 +0000</pubDate>
+				<category><![CDATA[Trending]]></category>
+		<category><![CDATA[Cloud burst]]></category>
+		<category><![CDATA[Tehri samachar]]></category>
+		<category><![CDATA[Uttarakhand news]]></category>
+		<guid isPermaLink="false">/?p=16196</guid>
+
+					<description><![CDATA[<p>टिहरी समाचार : प्राकृतिक आपदा ने लोगों को दहशत में डाल दिया है. घनसाली के...</p>
+<p>The post <a href="/2022/08/24/watch-live-video-of-the-devastation-caused-by-cloudburst-in-tehri-uttrakhand/">टिहरी समाचार : घनसाली के चिरबाटिया क्षेत्र फटा बादल देखिए LIVE video</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2022/08/24/watch-live-video-of-the-devastation-caused-by-cloudburst-in-tehri-uttrakhand/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="/wp-content/uploads/2022/08/VID-20220824-WA0002.mp4" length="3132090" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>

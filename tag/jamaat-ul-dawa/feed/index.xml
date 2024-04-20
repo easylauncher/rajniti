@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Jamaat ul dawa Archives - Rajniti.Online</title>
+	<atom:link href="/tag/jamaat-ul-dawa/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/jamaat-ul-dawa/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Sat, 29 Aug 2020 05:50:00 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>Jamaat ul dawa Archives - Rajniti.Online</title>
+	<link>/tag/jamaat-ul-dawa/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>हिंदुस्तान के खौफ से थर्राया पाकिस्तान लिया यह बड़ा फैसला</title>
+		<link>/2020/08/29/pakistan-takes-action-against-terrorism/</link>
+					<comments>/2020/08/29/pakistan-takes-action-against-terrorism/#respond</comments>
+		
+		<dc:creator><![CDATA[टीम राजनीति]]></dc:creator>
+		<pubDate>Sat, 29 Aug 2020 05:49:04 +0000</pubDate>
+				<category><![CDATA[Flash]]></category>
+		<category><![CDATA[दुनियादारी]]></category>
+		<category><![CDATA[FATF]]></category>
+		<category><![CDATA[Financial Action Task Force]]></category>
+		<category><![CDATA[Hafiz Saeed]]></category>
+		<category><![CDATA[Jamaat ul dawa]]></category>
+		<category><![CDATA[Lashkar-e-Taiba]]></category>
+		<category><![CDATA[pakistan]]></category>
+		<guid isPermaLink="false">/?p=9760</guid>
+
+					<description><![CDATA[<p>पाकिस्तान के खिलाफ हिंदुस्तान ने जो जाल बिछाया उसका असर यह हुआ है कि मुंबई...</p>
+<p>The post <a href="/2020/08/29/pakistan-takes-action-against-terrorism/">हिंदुस्तान के खौफ से थर्राया पाकिस्तान लिया यह बड़ा फैसला</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2020/08/29/pakistan-takes-action-against-terrorism/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

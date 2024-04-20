@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>history Archives - Rajniti.Online</title>
+	<atom:link href="/tag/history/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/history/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Mon, 02 Oct 2023 14:16:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>history Archives - Rajniti.Online</title>
+	<link>/tag/history/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>सावरकर &#8216;वीर&#8217; थे या कायर?</title>
+		<link>/2023/05/29/was-savarkar-a-hero-or-a-coward/</link>
+		
+		<dc:creator><![CDATA[टीम राजनीति]]></dc:creator>
+		<pubDate>Mon, 29 May 2023 05:25:54 +0000</pubDate>
+				<category><![CDATA[Flash]]></category>
+		<category><![CDATA[Trending]]></category>
+		<category><![CDATA[मेरा भारत]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[Savarkar]]></category>
+		<category><![CDATA[Veer Savarkar]]></category>
+		<guid isPermaLink="false">/?p=16538</guid>
+
+					<description><![CDATA[<p>सावरकर &#8216;वीर&#8217; थे या कायर? ये प्रश्न अभी भी अनित्तरित है. देश का एक बड़ा...</p>
+<p>The post <a href="/2023/05/29/was-savarkar-a-hero-or-a-coward/">सावरकर &#8216;वीर&#8217; थे या कायर?</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

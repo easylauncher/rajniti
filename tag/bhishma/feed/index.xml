@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bhishma Archives - Rajniti.Online</title>
+	<atom:link href="/tag/bhishma/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/bhishma/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Mon, 01 May 2023 05:15:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>Bhishma Archives - Rajniti.Online</title>
+	<link>/tag/bhishma/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>&#8220;भीष्म को क्षमा नहीं किया गया&#8221;</title>
+		<link>/2023/05/01/story-of-mahabharta-and-bhishma/</link>
+					<comments>/2023/05/01/story-of-mahabharta-and-bhishma/#respond</comments>
+		
+		<dc:creator><![CDATA[टीम राजनीति]]></dc:creator>
+		<pubDate>Mon, 01 May 2023 05:15:03 +0000</pubDate>
+				<category><![CDATA[Flash]]></category>
+		<category><![CDATA[Stories]]></category>
+		<category><![CDATA[Trending]]></category>
+		<category><![CDATA[Bhishma]]></category>
+		<category><![CDATA[mahabharata]]></category>
+		<category><![CDATA[story of Bhishma]]></category>
+		<guid isPermaLink="false">/?p=16433</guid>
+
+					<description><![CDATA[<p>हजारी प्रसाद द्विवेदी मेरे एक मित्र हैं, बड़े विद्वान, स्‍पष्‍टवादी और नीतिमान. वह इस राज्‍य...</p>
+<p>The post <a href="/2023/05/01/story-of-mahabharta-and-bhishma/">&#8220;भीष्म को क्षमा नहीं किया गया&#8221;</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2023/05/01/story-of-mahabharta-and-bhishma/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

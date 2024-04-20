@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>K2-B18 Archives - Rajniti.Online</title>
+	<atom:link href="/tag/k2-b18/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/k2-b18/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Sun, 08 Aug 2021 08:23:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>K2-B18 Archives - Rajniti.Online</title>
+	<link>/tag/k2-b18/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>क्या कोई ऐसा ग्रह है जो पृथ्वी की तरह आबाद हो ?</title>
+		<link>/2019/09/13/is-there-any-planet-that-is-inhabited-like-the-earth/</link>
+					<comments>/2019/09/13/is-there-any-planet-that-is-inhabited-like-the-earth/#respond</comments>
+		
+		<dc:creator><![CDATA[टीम राजनीति]]></dc:creator>
+		<pubDate>Fri, 13 Sep 2019 05:17:04 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[K2-B18]]></category>
+		<category><![CDATA[timeless-infotainment]]></category>
+		<category><![CDATA[अंतरिक्ष]]></category>
+		<category><![CDATA[के2-बी18]]></category>
+		<category><![CDATA[सौर मंडल]]></category>
+		<guid isPermaLink="false">/?p=6182</guid>
+
+					<description><![CDATA[<p>सौर मंडल में जीवन की संभावनाओं की तलाश में लगे वैज्ञानिकों को एक और ग्रह...</p>
+<p>The post <a href="/2019/09/13/is-there-any-planet-that-is-inhabited-like-the-earth/">क्या कोई ऐसा ग्रह है जो पृथ्वी की तरह आबाद हो ?</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2019/09/13/is-there-any-planet-that-is-inhabited-like-the-earth/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

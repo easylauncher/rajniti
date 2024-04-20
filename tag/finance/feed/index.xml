@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Finance Archives - Rajniti.Online</title>
+	<atom:link href="/tag/finance/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/finance/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Mon, 23 Aug 2021 11:03:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>Finance Archives - Rajniti.Online</title>
+	<link>/tag/finance/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Importance of Financial Planning for Businesses: कैसे बनाएं व्यापार कामयाब करने की योजना ?</title>
+		<link>/2021/08/23/importance-of-financial-planning-for-businesses/</link>
+					<comments>/2021/08/23/importance-of-financial-planning-for-businesses/#respond</comments>
+		
+		<dc:creator><![CDATA[shivamb.e]]></dc:creator>
+		<pubDate>Mon, 23 Aug 2021 11:00:45 +0000</pubDate>
+				<category><![CDATA[Stories]]></category>
+		<category><![CDATA[Trending]]></category>
+		<category><![CDATA[Business]]></category>
+		<category><![CDATA[Business analytics]]></category>
+		<category><![CDATA[Finance]]></category>
+		<category><![CDATA[Financial planning]]></category>
+		<category><![CDATA[timeless-business]]></category>
+		<category><![CDATA[timeless-finance]]></category>
+		<guid isPermaLink="false">/?p=13642</guid>
+
+					<description><![CDATA[<p>Importance of Financial Planning for Businesses: फाइनेंशियल प्लैनिंग आपके व्यापार के लिए क्यों जरूरी है...</p>
+<p>The post <a href="/2021/08/23/importance-of-financial-planning-for-businesses/">Importance of Financial Planning for Businesses: कैसे बनाएं व्यापार कामयाब करने की योजना ?</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2021/08/23/importance-of-financial-planning-for-businesses/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

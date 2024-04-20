@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Antibiotic Archives - Rajniti.Online</title>
+	<atom:link href="/tag/antibiotic/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/antibiotic/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Sun, 02 May 2021 11:43:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>Antibiotic Archives - Rajniti.Online</title>
+	<link>/tag/antibiotic/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>कोरोना में एंटीबायोटिक से क्या होगा&#8230;जो दवा दे रहे वो कारगर है भी या नहीं</title>
+		<link>/2021/05/02/what-will-happen-to-the-antibiotic-in-corona/</link>
+					<comments>/2021/05/02/what-will-happen-to-the-antibiotic-in-corona/#respond</comments>
+		
+		<dc:creator><![CDATA[@shiv gupta]]></dc:creator>
+		<pubDate>Sun, 02 May 2021 11:41:26 +0000</pubDate>
+				<category><![CDATA[Flash]]></category>
+		<category><![CDATA[मेरा भारत]]></category>
+		<category><![CDATA[स्वास्थ्य]]></category>
+		<category><![CDATA[Antibiotic]]></category>
+		<category><![CDATA[Antibodies]]></category>
+		<category><![CDATA[Antivirus]]></category>
+		<category><![CDATA[Coronavirus]]></category>
+		<category><![CDATA[Covid-19 death toll]]></category>
+		<category><![CDATA[Covid-19 India live update]]></category>
+		<guid isPermaLink="false">/?p=11777</guid>
+
+					<description><![CDATA[<p>कोरोना में एंटीबायोटिक से क्या होगा, लोग मर रहे, कैसे हो इलाज पर भरोसा, जो...</p>
+<p>The post <a href="/2021/05/02/what-will-happen-to-the-antibiotic-in-corona/">कोरोना में एंटीबायोटिक से क्या होगा&#8230;जो दवा दे रहे वो कारगर है भी या नहीं</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2021/05/02/what-will-happen-to-the-antibiotic-in-corona/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

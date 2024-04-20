@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>मानव Archives - Rajniti.Online</title>
+	<atom:link href="/tag/%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%B5/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/मानव/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Sun, 22 Sep 2019 05:11:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>मानव Archives - Rajniti.Online</title>
+	<link>/tag/मानव/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>इंसान कैसे इतना शक्तिशाली हो गया ?</title>
+		<link>/2019/09/22/how-did-humans-become-so-powerful/</link>
+					<comments>/2019/09/22/how-did-humans-become-so-powerful/#respond</comments>
+		
+		<dc:creator><![CDATA[टीम राजनीति]]></dc:creator>
+		<pubDate>Sun, 22 Sep 2019 05:11:11 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[बातचीत]]></category>
+		<category><![CDATA[इंसान]]></category>
+		<category><![CDATA[प्रकृति]]></category>
+		<category><![CDATA[मानव]]></category>
+		<category><![CDATA[शक्तिशाली]]></category>
+		<guid isPermaLink="false">/?p=6308</guid>
+
+					<description><![CDATA[<p>इंसान पृथ्वी का सबसे अक्लमंद और शक्तिशाली प्राणी है. पृथ्वी पर इंसान की बनाई हुई...</p>
+<p>The post <a href="/2019/09/22/how-did-humans-become-so-powerful/">इंसान कैसे इतना शक्तिशाली हो गया ?</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2019/09/22/how-did-humans-become-so-powerful/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

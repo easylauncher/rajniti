@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>5 deployment Archives - Rajniti.Online</title>
+	<atom:link href="/tag/5-deployment/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/5-deployment/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Thu, 20 Jan 2022 11:08:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>5 deployment Archives - Rajniti.Online</title>
+	<link>/tag/5-deployment/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>5G Deployment: हवाई जहाज को है 5G से खतरा लेकिन क्यों?</title>
+		<link>/2022/01/20/5g-deployment-airplanes-are-at-risk-from-5g-but-why/</link>
+					<comments>/2022/01/20/5g-deployment-airplanes-are-at-risk-from-5g-but-why/#respond</comments>
+		
+		<dc:creator><![CDATA[shashank]]></dc:creator>
+		<pubDate>Thu, 20 Jan 2022 11:08:40 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Trending]]></category>
+		<category><![CDATA[5 deployment]]></category>
+		<category><![CDATA[5G service]]></category>
+		<category><![CDATA[Air traffic]]></category>
+		<category><![CDATA[High speed internet]]></category>
+		<category><![CDATA[Tech news]]></category>
+		<category><![CDATA[timeless-gadgets]]></category>
+		<guid isPermaLink="false">/?p=14687</guid>
+
+					<description><![CDATA[<p>5G Deployment: काफी समय से 5G को लेकर खबरें सामने आ रही हैं और लोग...</p>
+<p>The post <a href="/2022/01/20/5g-deployment-airplanes-are-at-risk-from-5g-but-why/">5G Deployment: हवाई जहाज को है 5G से खतरा लेकिन क्यों?</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2022/01/20/5g-deployment-airplanes-are-at-risk-from-5g-but-why/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

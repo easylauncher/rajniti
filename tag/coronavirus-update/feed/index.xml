@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Coronavirus update Archives - Rajniti.Online</title>
+	<atom:link href="/tag/coronavirus-update/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/coronavirus-update/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Sat, 04 Jul 2020 04:21:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>Coronavirus update Archives - Rajniti.Online</title>
+	<link>/tag/coronavirus-update/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>कोरोना वायरस की &#8216;स्वदेशी वैक्सीन&#8217; से जुड़ी 11 अहम बातें जो जानना जरूरी है</title>
+		<link>/2020/07/04/swadeshi-vaccine-of-coronavirus/</link>
+					<comments>/2020/07/04/swadeshi-vaccine-of-coronavirus/#respond</comments>
+		
+		<dc:creator><![CDATA[टीम राजनीति]]></dc:creator>
+		<pubDate>Sat, 04 Jul 2020 04:20:29 +0000</pubDate>
+				<category><![CDATA[Flash]]></category>
+		<category><![CDATA[मेरा भारत]]></category>
+		<category><![CDATA[15 august]]></category>
+		<category><![CDATA[Biotech]]></category>
+		<category><![CDATA[Coronavirus Swadeshi vaccine]]></category>
+		<category><![CDATA[Coronavirus update]]></category>
+		<category><![CDATA[ICMR]]></category>
+		<category><![CDATA[Swadeshi vaccine]]></category>
+		<guid isPermaLink="false">/?p=9142</guid>
+
+					<description><![CDATA[<p>कोरोना वायरस की स्वदेशी वैक्सीन को आईसीएमआर और हैदराबाद स्थित भारत बायोटेक कंपनी मिलकर बना...</p>
+<p>The post <a href="/2020/07/04/swadeshi-vaccine-of-coronavirus/">कोरोना वायरस की &#8216;स्वदेशी वैक्सीन&#8217; से जुड़ी 11 अहम बातें जो जानना जरूरी है</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2020/07/04/swadeshi-vaccine-of-coronavirus/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

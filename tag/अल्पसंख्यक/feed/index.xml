@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>अल्पसंख्यक Archives - Rajniti.Online</title>
+	<atom:link href="/tag/%E0%A4%85%E0%A4%B2%E0%A5%8D%E0%A4%AA%E0%A4%B8%E0%A4%82%E0%A4%96%E0%A5%8D%E0%A4%AF%E0%A4%95/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/अल्पसंख्यक/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Thu, 20 Dec 2018 06:06:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>अल्पसंख्यक Archives - Rajniti.Online</title>
+	<link>/tag/अल्पसंख्यक/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>विधानसभा चुनाव 2018: अल्पसंख्यकों के लिए क्या बदला ?</title>
+		<link>/2018/12/14/assembly-elections-2018-what-changes-for-minorities/</link>
+					<comments>/2018/12/14/assembly-elections-2018-what-changes-for-minorities/#respond</comments>
+		
+		<dc:creator><![CDATA[टीम राजनीति]]></dc:creator>
+		<pubDate>Fri, 14 Dec 2018 06:02:55 +0000</pubDate>
+				<category><![CDATA[विधानसभा-2022]]></category>
+		<category><![CDATA[अल्पसंख्यक]]></category>
+		<category><![CDATA[मुसलमान मतदाता]]></category>
+		<category><![CDATA[मुस्लिम विधायक]]></category>
+		<category><![CDATA[विधानसभा चुनाव]]></category>
+		<guid isPermaLink="false">/?p=773</guid>
+
+					<description><![CDATA[<p>पांच राज्यों के विधानसभा चुनाव खत्म हो चुके हैं और अब इन चुनावों का लोग...</p>
+<p>The post <a href="/2018/12/14/assembly-elections-2018-what-changes-for-minorities/">विधानसभा चुनाव 2018: अल्पसंख्यकों के लिए क्या बदला ?</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2018/12/14/assembly-elections-2018-what-changes-for-minorities/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

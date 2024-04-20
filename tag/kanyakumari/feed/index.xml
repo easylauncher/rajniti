@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kanyakumari Archives - Rajniti.Online</title>
+	<atom:link href="/tag/kanyakumari/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/kanyakumari/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Mon, 01 Mar 2021 10:14:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>Kanyakumari Archives - Rajniti.Online</title>
+	<link>/tag/kanyakumari/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>राहुल गांधी ने 9 सेकंड में लगाए 13 Pushups&#8230;देखें वीडियो</title>
+		<link>/2021/03/01/rahul-gandhi-pushups-watch-video/</link>
+					<comments>/2021/03/01/rahul-gandhi-pushups-watch-video/#respond</comments>
+		
+		<dc:creator><![CDATA[टीम राजनीति]]></dc:creator>
+		<pubDate>Mon, 01 Mar 2021 10:14:45 +0000</pubDate>
+				<category><![CDATA[Trending]]></category>
+		<category><![CDATA[Kanyakumari]]></category>
+		<category><![CDATA[Rahul Gandhi election campaign]]></category>
+		<category><![CDATA[Rahul Gandhi pushups]]></category>
+		<guid isPermaLink="false">/?p=11410</guid>
+
+					<description><![CDATA[<p>कन्याकुमारी में राहुल गांधी ने युवा छात्र-छात्राओं से बात की, इसी दौरान राहुल गांधी एक...</p>
+<p>The post <a href="/2021/03/01/rahul-gandhi-pushups-watch-video/">राहुल गांधी ने 9 सेकंड में लगाए 13 Pushups&#8230;देखें वीडियो</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2021/03/01/rahul-gandhi-pushups-watch-video/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WWF Archives - Rajniti.Online</title>
+	<atom:link href="/tag/wwf/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/wwf/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Fri, 26 Jun 2020 07:50:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>WWF Archives - Rajniti.Online</title>
+	<link>/tag/wwf/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>आसमान पर पहुंची डीजल की कीमतों के बीच WWF और इरिगेशन डिपार्टमेंट की ये कोशिश किसानों को राहत दे सकती है</title>
+		<link>/2020/06/26/amidst-the-rising-diesel-prices-this-effort-by-wwf-and-the-irrigation-department-may-give-relief-to-farmers/</link>
+					<comments>/2020/06/26/amidst-the-rising-diesel-prices-this-effort-by-wwf-and-the-irrigation-department-may-give-relief-to-farmers/#respond</comments>
+		
+		<dc:creator><![CDATA[टीम राजनीति]]></dc:creator>
+		<pubDate>Fri, 26 Jun 2020 06:35:57 +0000</pubDate>
+				<category><![CDATA[Trending]]></category>
+		<category><![CDATA[उत्तर प्रदेश]]></category>
+		<category><![CDATA[WWF]]></category>
+		<category><![CDATA[जल संचयन]]></category>
+		<category><![CDATA[नहर सफाई]]></category>
+		<category><![CDATA[सिंचाई विभाग]]></category>
+		<guid isPermaLink="false">/?p=8799</guid>
+
+					<description><![CDATA[<p>खेती को फायदे का सौदा बनाना है तो सरकारों को सिंचाई का सिस्टम सुधारना होगा....</p>
+<p>The post <a href="/2020/06/26/amidst-the-rising-diesel-prices-this-effort-by-wwf-and-the-irrigation-department-may-give-relief-to-farmers/">आसमान पर पहुंची डीजल की कीमतों के बीच WWF और इरिगेशन डिपार्टमेंट की ये कोशिश किसानों को राहत दे सकती है</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2020/06/26/amidst-the-rising-diesel-prices-this-effort-by-wwf-and-the-irrigation-department-may-give-relief-to-farmers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hyundai Mistra Archives - Rajniti.Online</title>
+	<atom:link href="/tag/hyundai-mistra/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/hyundai-mistra/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Tue, 24 Nov 2020 12:36:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>Hyundai Mistra Archives - Rajniti.Online</title>
+	<link>/tag/hyundai-mistra/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hyundai की यह Electric कार एक बार चार्जिंग में 520 किमी चलेगी</title>
+		<link>/2020/11/24/hyundai-showcase-new-electric-car-mistra/</link>
+					<comments>/2020/11/24/hyundai-showcase-new-electric-car-mistra/#respond</comments>
+		
+		<dc:creator><![CDATA[Shivam Bajpai]]></dc:creator>
+		<pubDate>Tue, 24 Nov 2020 12:36:02 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Electric car]]></category>
+		<category><![CDATA[Hyundai]]></category>
+		<category><![CDATA[Hyundai Mistra]]></category>
+		<category><![CDATA[Hyundai new electric car]]></category>
+		<category><![CDATA[Mistra]]></category>
+		<guid isPermaLink="false">/?p=10672</guid>
+
+					<description><![CDATA[<p>Hyundai ने ग्वांगझू मोटर शो में अपनी Electric कार Mistra को शोकेस किया है. यह...</p>
+<p>The post <a href="/2020/11/24/hyundai-showcase-new-electric-car-mistra/">Hyundai की यह Electric कार एक बार चार्जिंग में 520 किमी चलेगी</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2020/11/24/hyundai-showcase-new-electric-car-mistra/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

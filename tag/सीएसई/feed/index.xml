@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>सीएसई Archives - Rajniti.Online</title>
+	<atom:link href="/tag/%E0%A4%B8%E0%A5%80%E0%A4%8F%E0%A4%B8%E0%A4%88/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/सीएसई/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Fri, 19 Apr 2019 11:53:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>सीएसई Archives - Rajniti.Online</title>
+	<link>/tag/सीएसई/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>‘नोटबंदी के बाद 50 लाख लोगों ने नौकरी गंवाई’</title>
+		<link>/2019/04/17/50-lakh-people-lost-their-jobs-after-notebandi/</link>
+					<comments>/2019/04/17/50-lakh-people-lost-their-jobs-after-notebandi/#respond</comments>
+		
+		<dc:creator><![CDATA[राजनीति ब्यूरो]]></dc:creator>
+		<pubDate>Wed, 17 Apr 2019 07:42:13 +0000</pubDate>
+				<category><![CDATA[Newsbeat]]></category>
+		<category><![CDATA[मेरा भारत]]></category>
+		<category><![CDATA[अजीम प्रेमजी विश्वविद्यालय]]></category>
+		<category><![CDATA[नोटबंदी]]></category>
+		<category><![CDATA[बेरोजगारी]]></category>
+		<category><![CDATA[मोदी सरकार]]></category>
+		<category><![CDATA[सीएसई]]></category>
+		<guid isPermaLink="false">/?p=3920</guid>
+
+					<description><![CDATA[<p>नोटबंदी के नफा-नुकसान के बारे में कई रिपोर्ट आ चुकी हैं उन्हीं रिपोर्टस में एक...</p>
+<p>The post <a href="/2019/04/17/50-lakh-people-lost-their-jobs-after-notebandi/">‘नोटबंदी के बाद 50 लाख लोगों ने नौकरी गंवाई’</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2019/04/17/50-lakh-people-lost-their-jobs-after-notebandi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

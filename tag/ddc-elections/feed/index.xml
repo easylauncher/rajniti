@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>DDC Elections Archives - Rajniti.Online</title>
+	<atom:link href="/tag/ddc-elections/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/ddc-elections/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Wed, 23 Dec 2020 05:11:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>DDC Elections Archives - Rajniti.Online</title>
+	<link>/tag/ddc-elections/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>DDC Elections: चुनाव नतीजों के गुपकर गठबंधन और बीजेपी के लिए मायने?</title>
+		<link>/2020/12/23/whats-the-meaning-of-ddc-elections-results/</link>
+					<comments>/2020/12/23/whats-the-meaning-of-ddc-elections-results/#respond</comments>
+		
+		<dc:creator><![CDATA[कुमैल रिज़वी]]></dc:creator>
+		<pubDate>Wed, 23 Dec 2020 05:11:06 +0000</pubDate>
+				<category><![CDATA[Flash]]></category>
+		<category><![CDATA[Trending]]></category>
+		<category><![CDATA[जम्मू कश्मीर]]></category>
+		<category><![CDATA[DDC Elections]]></category>
+		<category><![CDATA[Jammu Kashmir election]]></category>
+		<category><![CDATA[गुपकार गठबंधन]]></category>
+		<guid isPermaLink="false">/?p=10794</guid>
+
+					<description><![CDATA[<p>जम्मू और कश्मीर के ज़िला विकास परिषद की 280 सीटों के लिए हुए चुनाव में...</p>
+<p>The post <a href="/2020/12/23/whats-the-meaning-of-ddc-elections-results/">DDC Elections: चुनाव नतीजों के गुपकर गठबंधन और बीजेपी के लिए मायने?</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2020/12/23/whats-the-meaning-of-ddc-elections-results/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dubai Archives - Rajniti.Online</title>
+	<atom:link href="/tag/dubai/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/dubai/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Fri, 01 Dec 2023 03:30:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>Dubai Archives - Rajniti.Online</title>
+	<link>/tag/dubai/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>COP28: दुबई में चल रहा जलवायु सम्मेलन क्या है?</title>
+		<link>/2023/12/01/cop28-what-is-the-climate-conference-going-on-in-dubai/</link>
+		
+		<dc:creator><![CDATA[ritika2002]]></dc:creator>
+		<pubDate>Fri, 01 Dec 2023 03:29:59 +0000</pubDate>
+				<category><![CDATA[Flash]]></category>
+		<category><![CDATA[Trending]]></category>
+		<category><![CDATA[दुनियादारी]]></category>
+		<category><![CDATA[Climate change]]></category>
+		<category><![CDATA[COP28]]></category>
+		<category><![CDATA[Dubai]]></category>
+		<guid isPermaLink="false">/?p=16645</guid>
+
+					<description><![CDATA[<p>जलवायु परिवर्तन पर चर्चा के लिए दुनियाभर के नेता दुबई में हो रहे संयुक्त राष्ट्र...</p>
+<p>The post <a href="/2023/12/01/cop28-what-is-the-climate-conference-going-on-in-dubai/">COP28: दुबई में चल रहा जलवायु सम्मेलन क्या है?</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

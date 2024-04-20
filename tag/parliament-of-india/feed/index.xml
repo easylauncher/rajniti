@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Parliament of India Archives - Rajniti.Online</title>
+	<atom:link href="/tag/parliament-of-india/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/parliament-of-india/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Mon, 02 Oct 2023 14:16:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>Parliament of India Archives - Rajniti.Online</title>
+	<link>/tag/parliament-of-india/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>&#8216;भारत की संसद अब बेमानी हो चुकी है&#8217;</title>
+		<link>/2023/06/01/parliament-of-india-is-now-redundant/</link>
+		
+		<dc:creator><![CDATA[टीम राजनीति]]></dc:creator>
+		<pubDate>Thu, 01 Jun 2023 06:15:42 +0000</pubDate>
+				<category><![CDATA[Flash]]></category>
+		<category><![CDATA[Newsbeat]]></category>
+		<category><![CDATA[मेरा भारत]]></category>
+		<category><![CDATA[Parliament of India]]></category>
+		<category><![CDATA[भारत की संसद]]></category>
+		<guid isPermaLink="false">/?p=16548</guid>
+
+					<description><![CDATA[<p>भारत की संसद क्या अब बेमानी हो चुकी है. ये प्रश्न इसलिए खड़ा हो रहा...</p>
+<p>The post <a href="/2023/06/01/parliament-of-india-is-now-redundant/">&#8216;भारत की संसद अब बेमानी हो चुकी है&#8217;</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

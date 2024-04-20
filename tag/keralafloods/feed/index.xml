@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>KeralaFloods Archives - Rajniti.Online</title>
+	<atom:link href="/tag/keralafloods/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/keralafloods/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Tue, 13 Aug 2019 05:13:56 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>KeralaFloods Archives - Rajniti.Online</title>
+	<link>/tag/keralafloods/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>#KeralaFloods : बाढ़ से मचे हाहाकार को देखकर आप दहल जाएंगे !</title>
+		<link>/2019/08/13/keralafloods-you-will-be-shocked-after-seeing-the-outcry-caused-by-the-flood/</link>
+					<comments>/2019/08/13/keralafloods-you-will-be-shocked-after-seeing-the-outcry-caused-by-the-flood/#respond</comments>
+		
+		<dc:creator><![CDATA[राजनीति ब्यूरो]]></dc:creator>
+		<pubDate>Tue, 13 Aug 2019 05:13:54 +0000</pubDate>
+				<category><![CDATA[Newsbeat]]></category>
+		<category><![CDATA[Trending]]></category>
+		<category><![CDATA[kerala]]></category>
+		<category><![CDATA[KeralaFloods]]></category>
+		<category><![CDATA[बाढ़ से बेहाल केरल]]></category>
+		<category><![CDATA[बाढ़ से हाहाकार]]></category>
+		<guid isPermaLink="false">/?p=5429</guid>
+
+					<description><![CDATA[<p>केरल इस वक्त बाढ़ की चपेट में है. राज्य में आम जनजीवन अस्त व्यस्त हो...</p>
+<p>The post <a href="/2019/08/13/keralafloods-you-will-be-shocked-after-seeing-the-outcry-caused-by-the-flood/">#KeralaFloods : बाढ़ से मचे हाहाकार को देखकर आप दहल जाएंगे !</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2019/08/13/keralafloods-you-will-be-shocked-after-seeing-the-outcry-caused-by-the-flood/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="/wp-content/uploads/2019/08/WHQm_qLSxarA8R02.mp4" length="464321" type="video/mp4" />
+<enclosure url="/wp-content/uploads/2019/08/yo3wsQIGrR3sdPN5.mp4" length="1413251" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>

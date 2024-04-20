@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hockey players Archives - Rajniti.Online</title>
+	<atom:link href="/tag/hockey-players/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/hockey-players/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Mon, 10 Aug 2020 11:47:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>Hockey players Archives - Rajniti.Online</title>
+	<link>/tag/hockey-players/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>पांच भारतीय हॉकी खिलाड़ियों को कोरोना ने कैसे अपना शिकार बनाया?</title>
+		<link>/2020/08/08/five-indian-hockey-players-were-found-to-be-corona-positive/</link>
+					<comments>/2020/08/08/five-indian-hockey-players-were-found-to-be-corona-positive/#respond</comments>
+		
+		<dc:creator><![CDATA[टीम राजनीति]]></dc:creator>
+		<pubDate>Sat, 08 Aug 2020 07:22:43 +0000</pubDate>
+				<category><![CDATA[खेल]]></category>
+		<category><![CDATA[Coronavirus live update]]></category>
+		<category><![CDATA[Hockey federation of India]]></category>
+		<category><![CDATA[Hockey players]]></category>
+		<guid isPermaLink="false">/?p=9606</guid>
+
+					<description><![CDATA[<p>एक महीने की ब्रेक के बाद बंगलुरु में ट्रेनिंग बेस पर लौटते वक्त पहले इन...</p>
+<p>The post <a href="/2020/08/08/five-indian-hockey-players-were-found-to-be-corona-positive/">पांच भारतीय हॉकी खिलाड़ियों को कोरोना ने कैसे अपना शिकार बनाया?</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2020/08/08/five-indian-hockey-players-were-found-to-be-corona-positive/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

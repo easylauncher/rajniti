@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CAIT Archives - Rajniti.Online</title>
+	<atom:link href="/tag/cait/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/cait/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Sun, 21 Jun 2020 05:04:54 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>CAIT Archives - Rajniti.Online</title>
+	<link>/tag/cait/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>हरभजन सिंह ने चीन के खिलाफ कुछ ऐसा किया जो अभी तक कोई नहीं कर पाया</title>
+		<link>/2020/06/21/harbhajan-singh-did-something-against-china-that-no-one-has-done-yet/</link>
+					<comments>/2020/06/21/harbhajan-singh-did-something-against-china-that-no-one-has-done-yet/#respond</comments>
+		
+		<dc:creator><![CDATA[टीम राजनीति]]></dc:creator>
+		<pubDate>Sun, 21 Jun 2020 05:04:17 +0000</pubDate>
+				<category><![CDATA[Trending]]></category>
+		<category><![CDATA[खेल]]></category>
+		<category><![CDATA[Boycott China]]></category>
+		<category><![CDATA[CAIT]]></category>
+		<category><![CDATA[Harbhajan Singh]]></category>
+		<guid isPermaLink="false">/?p=8662</guid>
+
+					<description><![CDATA[<p>हरभजन सिंह देश में पहले सेलिब्रिटी हैं जिन्होंने चीनी ब्रांडों के विज्ञापन नहीं करने का...</p>
+<p>The post <a href="/2020/06/21/harbhajan-singh-did-something-against-china-that-no-one-has-done-yet/">हरभजन सिंह ने चीन के खिलाफ कुछ ऐसा किया जो अभी तक कोई नहीं कर पाया</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2020/06/21/harbhajan-singh-did-something-against-china-that-no-one-has-done-yet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

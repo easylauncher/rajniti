@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>World bank Archives - Rajniti.Online</title>
+	<atom:link href="/tag/world-bank/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/world-bank/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Fri, 01 May 2020 10:14:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>World bank Archives - Rajniti.Online</title>
+	<link>/tag/world-bank/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Lockdown: 30 दिनों में मोदी सरकार के 40 हजार करोड़ डूबेंगे!</title>
+		<link>/2020/05/01/lockdown-40-thousand-crore-loss-of-modi-government-in-30-days/</link>
+					<comments>/2020/05/01/lockdown-40-thousand-crore-loss-of-modi-government-in-30-days/#respond</comments>
+		
+		<dc:creator><![CDATA[टीम राजनीति]]></dc:creator>
+		<pubDate>Fri, 01 May 2020 10:13:26 +0000</pubDate>
+				<category><![CDATA[Newsbeat]]></category>
+		<category><![CDATA[मेरा भारत]]></category>
+		<category><![CDATA[Economy]]></category>
+		<category><![CDATA[Narendra Modi]]></category>
+		<category><![CDATA[Oil prices]]></category>
+		<category><![CDATA[World bank]]></category>
+		<guid isPermaLink="false">/?p=7610</guid>
+
+					<description><![CDATA[<p>सरकार को सिर्फ अप्रैल में ही 40 हजार करोड़ यानी करीब 530 करोड़ डॉलर का...</p>
+<p>The post <a href="/2020/05/01/lockdown-40-thousand-crore-loss-of-modi-government-in-30-days/">Lockdown: 30 दिनों में मोदी सरकार के 40 हजार करोड़ डूबेंगे!</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2020/05/01/lockdown-40-thousand-crore-loss-of-modi-government-in-30-days/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

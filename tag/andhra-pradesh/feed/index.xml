@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Andhra Pradesh Archives - Rajniti.Online</title>
+	<atom:link href="/tag/andhra-pradesh/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/andhra-pradesh/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Sat, 28 Nov 2020 07:08:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>Andhra Pradesh Archives - Rajniti.Online</title>
+	<link>/tag/andhra-pradesh/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nivar चक्रवात से किन राज्यों को सबसे ज्यादा खतरा?</title>
+		<link>/2020/11/24/nivar-cyclone-latest-update/</link>
+					<comments>/2020/11/24/nivar-cyclone-latest-update/#respond</comments>
+		
+		<dc:creator><![CDATA[टीम राजनीति]]></dc:creator>
+		<pubDate>Tue, 24 Nov 2020 12:12:33 +0000</pubDate>
+				<category><![CDATA[Trending]]></category>
+		<category><![CDATA[Andhra Pradesh]]></category>
+		<category><![CDATA[Nivar]]></category>
+		<category><![CDATA[Nivar cyclone update]]></category>
+		<category><![CDATA[Puducherry]]></category>
+		<category><![CDATA[Tamil Nadu]]></category>
+		<guid isPermaLink="false">/?p=10669</guid>
+
+					<description><![CDATA[<p>बंगाल की खाड़ी से उठे Nivar चक्रवात की वजह से कई इलाक़ों में भारी बारिश...</p>
+<p>The post <a href="/2020/11/24/nivar-cyclone-latest-update/">Nivar चक्रवात से किन राज्यों को सबसे ज्यादा खतरा?</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2020/11/24/nivar-cyclone-latest-update/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Development Archives - Rajniti.Online</title>
+	<atom:link href="/tag/development/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/development/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Sun, 08 Aug 2021 08:58:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>Development Archives - Rajniti.Online</title>
+	<link>/tag/development/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>ना सड़क पहुंची ना शिक्षा, गांववाले मांग रहे &#8216;विकास&#8217; की भिक्षा</title>
+		<link>/2020/07/24/bahraich-3/</link>
+					<comments>/2020/07/24/bahraich-3/#respond</comments>
+		
+		<dc:creator><![CDATA[टीम राजनीति]]></dc:creator>
+		<pubDate>Fri, 24 Jul 2020 02:19:35 +0000</pubDate>
+				<category><![CDATA[Trending]]></category>
+		<category><![CDATA[उत्तर प्रदेश]]></category>
+		<category><![CDATA[Bahraich]]></category>
+		<category><![CDATA[Development]]></category>
+		<category><![CDATA[timeless-middle-class]]></category>
+		<guid isPermaLink="false">/?p=9441</guid>
+
+					<description><![CDATA[<p>&#8216;हम दलित हैं, हमारे दुखों को दूर करने कोई नहीं आता. रोज डर के मारे...</p>
+<p>The post <a href="/2020/07/24/bahraich-3/">ना सड़क पहुंची ना शिक्षा, गांववाले मांग रहे &#8216;विकास&#8217; की भिक्षा</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2020/07/24/bahraich-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="/wp-content/uploads/2020/07/20200724_0743091.mp4" length="4705587" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>

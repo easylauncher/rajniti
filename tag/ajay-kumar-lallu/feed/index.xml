@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ajay Kumar Lallu Archives - Rajniti.Online</title>
+	<atom:link href="/tag/ajay-kumar-lallu/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/ajay-kumar-lallu/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Thu, 30 Jul 2020 13:42:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>Ajay Kumar Lallu Archives - Rajniti.Online</title>
+	<link>/tag/ajay-kumar-lallu/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>&#8216;बाढ़ से जूझ रहे इलाकों में सिर्फ भूख और बेबसी है, और बीजेपी सरकार हवाई सर्वेक्षणों में लगी है&#8217;</title>
+		<link>/2020/07/30/flood-in-bahraich/</link>
+					<comments>/2020/07/30/flood-in-bahraich/#respond</comments>
+		
+		<dc:creator><![CDATA[टीम राजनीति]]></dc:creator>
+		<pubDate>Thu, 30 Jul 2020 13:41:34 +0000</pubDate>
+				<category><![CDATA[Trending]]></category>
+		<category><![CDATA[Ajay Kumar Lallu]]></category>
+		<category><![CDATA[Bahraich news]]></category>
+		<category><![CDATA[Flood in Bahraich]]></category>
+		<guid isPermaLink="false">/?p=9510</guid>
+
+					<description><![CDATA[<p>भारत के कई हिस्से बाढ़ की विभीषिका से जूझ रहे हैं उनमें बहराइच और कैसरगंज...</p>
+<p>The post <a href="/2020/07/30/flood-in-bahraich/">&#8216;बाढ़ से जूझ रहे इलाकों में सिर्फ भूख और बेबसी है, और बीजेपी सरकार हवाई सर्वेक्षणों में लगी है&#8217;</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2020/07/30/flood-in-bahraich/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="/wp-content/uploads/2020/07/20200730_1905181.mp4" length="6779485" type="video/mp4" />
+
+			</item>
+	</channel>
+</rss>

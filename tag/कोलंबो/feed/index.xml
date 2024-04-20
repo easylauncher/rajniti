@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>कोलंबो Archives - Rajniti.Online</title>
+	<atom:link href="/tag/%E0%A4%95%E0%A5%8B%E0%A4%B2%E0%A4%82%E0%A4%AC%E0%A5%8B/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/कोलंबो/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Mon, 22 Apr 2019 15:46:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>कोलंबो Archives - Rajniti.Online</title>
+	<link>/tag/कोलंबो/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>धमाकों से दहला श्रीलंका, 290 से ज्यादा लोगों की मौत</title>
+		<link>/2019/04/21/more-than-100-people-killed-in-serial-blasts-in-sri-lanka/</link>
+					<comments>/2019/04/21/more-than-100-people-killed-in-serial-blasts-in-sri-lanka/#respond</comments>
+		
+		<dc:creator><![CDATA[राजनीति ब्यूरो]]></dc:creator>
+		<pubDate>Sun, 21 Apr 2019 06:44:55 +0000</pubDate>
+				<category><![CDATA[दुनियादारी]]></category>
+		<category><![CDATA[कोलंबो]]></category>
+		<category><![CDATA[श्रीलंका]]></category>
+		<category><![CDATA[सीरियल ब्लास्ट]]></category>
+		<guid isPermaLink="false">/?p=3982</guid>
+
+					<description><![CDATA[<p>कोलंबोः श्रीलंका की राजधानी कोलंबो और 6 जगहों पर हुए सीरियल ब्लास्ट में 100 से...</p>
+<p>The post <a href="/2019/04/21/more-than-100-people-killed-in-serial-blasts-in-sri-lanka/">धमाकों से दहला श्रीलंका, 290 से ज्यादा लोगों की मौत</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2019/04/21/more-than-100-people-killed-in-serial-blasts-in-sri-lanka/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

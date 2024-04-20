@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>म्यूजिक Archives - Rajniti.Online</title>
+	<atom:link href="/tag/%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9C%E0%A4%BF%E0%A4%95/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/म्यूजिक/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Wed, 13 Mar 2019 07:07:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>म्यूजिक Archives - Rajniti.Online</title>
+	<link>/tag/म्यूजिक/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Spotify: अब सुनें मन का संगीत 113 रुपये महीने में, जानें क्या है स्पोर्टीफाई?</title>
+		<link>/2019/02/27/spotify-now-listen-to-music-of-113-rupees-in-a-month-know-what-is-spotify/</link>
+					<comments>/2019/02/27/spotify-now-listen-to-music-of-113-rupees-in-a-month-know-what-is-spotify/#respond</comments>
+		
+		<dc:creator><![CDATA[राजनीति ब्यूरो]]></dc:creator>
+		<pubDate>Wed, 27 Feb 2019 05:14:46 +0000</pubDate>
+				<category><![CDATA[बातचीत]]></category>
+		<category><![CDATA[sportify]]></category>
+		<category><![CDATA[म्यूजिक]]></category>
+		<guid isPermaLink="false">/?p=2829</guid>
+
+					<description><![CDATA[<p>म्यूजिक स्ट्रीमिंग की जानी मानी कंपनी स्पोर्टीफाई भारत में लांच हो गई है. भारत में...</p>
+<p>The post <a href="/2019/02/27/spotify-now-listen-to-music-of-113-rupees-in-a-month-know-what-is-spotify/">Spotify: अब सुनें मन का संगीत 113 रुपये महीने में, जानें क्या है स्पोर्टीफाई?</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2019/02/27/spotify-now-listen-to-music-of-113-rupees-in-a-month-know-what-is-spotify/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

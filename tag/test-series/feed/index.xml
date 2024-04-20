@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Test series Archives - Rajniti.Online</title>
+	<atom:link href="/tag/test-series/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/test-series/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Sun, 12 Sep 2021 03:07:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>Test series Archives - Rajniti.Online</title>
+	<link>/tag/test-series/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>India vs England, 4th Test: 50 साल बाद Kennington Oval में टीम इंडिया ने रचा इतिहास</title>
+		<link>/2021/09/07/india-vs-england-4th-test-team-india-make-a-history/</link>
+					<comments>/2021/09/07/india-vs-england-4th-test-team-india-make-a-history/#respond</comments>
+		
+		<dc:creator><![CDATA[टीम राजनीति]]></dc:creator>
+		<pubDate>Tue, 07 Sep 2021 01:20:43 +0000</pubDate>
+				<category><![CDATA[खेल]]></category>
+		<category><![CDATA[ENGLAND]]></category>
+		<category><![CDATA[India]]></category>
+		<category><![CDATA[Oval test]]></category>
+		<category><![CDATA[Test series]]></category>
+		<guid isPermaLink="false">/?p=13875</guid>
+
+					<description><![CDATA[<p>India vs England, 4th Test :&#160;भारत ने इंग्लैंड को द ओवल (Kennington Oval, London) में...</p>
+<p>The post <a href="/2021/09/07/india-vs-england-4th-test-team-india-make-a-history/">India vs England, 4th Test: 50 साल बाद Kennington Oval में टीम इंडिया ने रचा इतिहास</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2021/09/07/india-vs-england-4th-test-team-india-make-a-history/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

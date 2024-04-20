@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Religion Archives - Rajniti.Online</title>
+	<atom:link href="/tag/religion/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/religion/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Thu, 18 May 2023 04:29:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>Religion Archives - Rajniti.Online</title>
+	<link>/tag/religion/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>धर्म: कौन लड़ेगा बाबा-काबा से?</title>
+		<link>/2023/05/18/religion-who-will-fight-with-baba-kaaba/</link>
+					<comments>/2023/05/18/religion-who-will-fight-with-baba-kaaba/#respond</comments>
+		
+		<dc:creator><![CDATA[टीम राजनीति]]></dc:creator>
+		<pubDate>Thu, 18 May 2023 04:29:56 +0000</pubDate>
+				<category><![CDATA[Stories]]></category>
+		<category><![CDATA[धर्म-कर्म]]></category>
+		<category><![CDATA[समाज]]></category>
+		<category><![CDATA[baba]]></category>
+		<category><![CDATA[kaba]]></category>
+		<category><![CDATA[Religion]]></category>
+		<guid isPermaLink="false">/?p=16504</guid>
+
+					<description><![CDATA[<p>धर्म: हर धर्म में परिमार्जन की प्रवृत्तियां रही हैं..सनातन हिंदुत्व के बीच ही कई बार...</p>
+<p>The post <a href="/2023/05/18/religion-who-will-fight-with-baba-kaaba/">धर्म: कौन लड़ेगा बाबा-काबा से?</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2023/05/18/religion-who-will-fight-with-baba-kaaba/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>इस डरावनी आस्था से सावधान !</title>
+		<link>/2022/07/12/faith-and-fear-iss-daravani-aastha-se-savdhan/</link>
+					<comments>/2022/07/12/faith-and-fear-iss-daravani-aastha-se-savdhan/#respond</comments>
+		
+		<dc:creator><![CDATA[टीम राजनीति]]></dc:creator>
+		<pubDate>Tue, 12 Jul 2022 15:42:30 +0000</pubDate>
+				<category><![CDATA[Newsbeat]]></category>
+		<category><![CDATA[Daravani Aastha]]></category>
+		<category><![CDATA[Faith]]></category>
+		<category><![CDATA[Religion]]></category>
+		<category><![CDATA[Religious]]></category>
+		<category><![CDATA[Social issue]]></category>
+		<category><![CDATA[timeless-infotainment]]></category>
+		<guid isPermaLink="false">/?p=16009</guid>
+
+					<description><![CDATA[<p>विजयदान देथा की एक कहानी है- &#8216;रिजक की मर्यादा&#8217;. जिसमें डरावनी आस्था का ऐसा उदाहरण...</p>
+<p>The post <a href="/2022/07/12/faith-and-fear-iss-daravani-aastha-se-savdhan/">इस डरावनी आस्था से सावधान !</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2022/07/12/faith-and-fear-iss-daravani-aastha-se-savdhan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

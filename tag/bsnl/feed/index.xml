@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>BSNL Archives - Rajniti.Online</title>
+	<atom:link href="/tag/bsnl/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/bsnl/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Sun, 08 Sep 2019 17:51:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>BSNL Archives - Rajniti.Online</title>
+	<link>/tag/bsnl/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>MTNL में भारी वित्तीय संकट, दो महीने से नहीं मिला वेतन</title>
+		<link>/2019/09/08/heavy-financial-crisis-in-mtnl-employees-have-not-received-salary-for-two-months/</link>
+					<comments>/2019/09/08/heavy-financial-crisis-in-mtnl-employees-have-not-received-salary-for-two-months/#respond</comments>
+		
+		<dc:creator><![CDATA[राजनीति ब्यूरो]]></dc:creator>
+		<pubDate>Sun, 08 Sep 2019 17:51:21 +0000</pubDate>
+				<category><![CDATA[Newsbeat]]></category>
+		<category><![CDATA[मेरा भारत]]></category>
+		<category><![CDATA[BSNL]]></category>
+		<category><![CDATA[MTNL]]></category>
+		<category><![CDATA[पब्लिक सेक्टर बर्बाद]]></category>
+		<guid isPermaLink="false">/?p=6051</guid>
+
+					<description><![CDATA[<p>पब्लिक सेक्टर की कंपनी MTNL ने दिनों भारी नगदी संकट से जूझ रही है. हालात...</p>
+<p>The post <a href="/2019/09/08/heavy-financial-crisis-in-mtnl-employees-have-not-received-salary-for-two-months/">MTNL में भारी वित्तीय संकट, दो महीने से नहीं मिला वेतन</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2019/09/08/heavy-financial-crisis-in-mtnl-employees-have-not-received-salary-for-two-months/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

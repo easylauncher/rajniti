@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Android One Archives - Rajniti.Online</title>
+	<atom:link href="/tag/android-one/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/android-one/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Fri, 23 Aug 2019 04:49:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>Android One Archives - Rajniti.Online</title>
+	<link>/tag/android-one/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Xiaomi Mi A3 भारत में लॉन्च हुआ, जानिए क्या हैं इसकी खूबियां</title>
+		<link>/2019/08/21/xiaomi-mi-a3-launched-in-india-know-what-are-its-features/</link>
+					<comments>/2019/08/21/xiaomi-mi-a3-launched-in-india-know-what-are-its-features/#respond</comments>
+		
+		<dc:creator><![CDATA[राजनीति ब्यूरो]]></dc:creator>
+		<pubDate>Wed, 21 Aug 2019 10:17:52 +0000</pubDate>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Android One]]></category>
+		<category><![CDATA[Xiaomi Mi A3]]></category>
+		<category><![CDATA[एमआई ए3]]></category>
+		<category><![CDATA[शाओमी]]></category>
+		<guid isPermaLink="false">/?p=5568</guid>
+
+					<description><![CDATA[<p>Xiaomi Mi A3 स्मार्टफोन भारत लॉन्च हो गया गया है. शाओमी का ये बेहद खास...</p>
+<p>The post <a href="/2019/08/21/xiaomi-mi-a3-launched-in-india-know-what-are-its-features/">Xiaomi Mi A3 भारत में लॉन्च हुआ, जानिए क्या हैं इसकी खूबियां</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2019/08/21/xiaomi-mi-a3-launched-in-india-know-what-are-its-features/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

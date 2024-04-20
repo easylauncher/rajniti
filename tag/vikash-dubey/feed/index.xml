@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Vikash Dubey Archives - Rajniti.Online</title>
+	<atom:link href="/tag/vikash-dubey/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/vikash-dubey/</link>
+	<description>नीति... जो प्रजा के हित में</description>
+	<lastBuildDate>Fri, 10 Jul 2020 07:17:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2018/12/cropped-rajniti-logo-1-32x32.png</url>
+	<title>Vikash Dubey Archives - Rajniti.Online</title>
+	<link>/tag/vikash-dubey/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>विकास दुबे एनकाउंटर पर प्रियंका गांधी ने बड़ी सही बात कही</title>
+		<link>/2020/07/10/priyanka-gandhi/</link>
+					<comments>/2020/07/10/priyanka-gandhi/#respond</comments>
+		
+		<dc:creator><![CDATA[टीम राजनीति]]></dc:creator>
+		<pubDate>Fri, 10 Jul 2020 06:56:23 +0000</pubDate>
+				<category><![CDATA[Newsbeat]]></category>
+		<category><![CDATA[Congress party]]></category>
+		<category><![CDATA[Kanpur encounter]]></category>
+		<category><![CDATA[priyanka gandhi vadra]]></category>
+		<category><![CDATA[Vikash Dubey]]></category>
+		<guid isPermaLink="false">/?p=9258</guid>
+
+					<description><![CDATA[<p>विकास दुबे को स्पेशल टास्क फ़ोर्स विकास को उज्जैन से सड़क के रास्ते कानपुर लेकर...</p>
+<p>The post <a href="/2020/07/10/priyanka-gandhi/">विकास दुबे एनकाउंटर पर प्रियंका गांधी ने बड़ी सही बात कही</a> appeared first on <a href="/">Rajniti.Online</a>.</p>
+]]></description>
+		
+					<wfw:commentRss>/2020/07/10/priyanka-gandhi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
